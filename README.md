@@ -1,4 +1,4 @@
-# base_flutter
+# App manga
 
 Base Flutter project.
 
